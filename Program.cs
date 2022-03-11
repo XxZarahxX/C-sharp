@@ -80,18 +80,15 @@ namespace ConsoleApp14
             Console.WriteLine($"A legkevesebbet kihúzott: {legkisebb_eredmeny} : {min}");
 
             int sum = 0;
+           
             foreach (var item in szamok)
             {
-                if(item.szam % 2 == 0)
+                if (item.szam % 2 != 0)
                 {
                     sum += item.db;
                 }
-                else
-                {
-                    Console.WriteLine("A szám páratlan");
-                    break;
-                }
             }
+            Console.WriteLine($"A szám páratlan: {sum}");
           
 
 
