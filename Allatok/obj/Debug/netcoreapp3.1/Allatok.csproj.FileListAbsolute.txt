@@ -1,0 +1,14 @@
+C:\Users\Sarah\source\repos\Allatok\obj\Debug\netcoreapp3.1\Allatok.csproj.AssemblyReference.cache
+C:\Users\Sarah\source\repos\Allatok\obj\Debug\netcoreapp3.1\Allatok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarah\source\repos\Allatok\obj\Debug\netcoreapp3.1\Allatok.AssemblyInfoInputs.cache
+C:\Users\Sarah\source\repos\Allatok\obj\Debug\netcoreapp3.1\Allatok.AssemblyInfo.cs
+C:\Users\Sarah\source\repos\Allatok\obj\Debug\netcoreapp3.1\Allatok.csproj.CoreCompileInputs.cache
+C:\Users\Sarah\source\repos\Allatok\bin\Debug\netcoreapp3.1\Allatok.exe
+C:\Users\Sarah\source\repos\Allatok\bin\Debug\netcoreapp3.1\Allatok.deps.json
+C:\Users\Sarah\source\repos\Allatok\bin\Debug\netcoreapp3.1\Allatok.runtimeconfig.json
+C:\Users\Sarah\source\repos\Allatok\bin\Debug\netcoreapp3.1\Allatok.runtimeconfig.dev.json
+C:\Users\Sarah\source\repos\Allatok\bin\Debug\netcoreapp3.1\Allatok.dll
+C:\Users\Sarah\source\repos\Allatok\bin\Debug\netcoreapp3.1\Allatok.pdb
+C:\Users\Sarah\source\repos\Allatok\obj\Debug\netcoreapp3.1\Allatok.dll
+C:\Users\Sarah\source\repos\Allatok\obj\Debug\netcoreapp3.1\Allatok.pdb
+C:\Users\Sarah\source\repos\Allatok\obj\Debug\netcoreapp3.1\Allatok.genruntimeconfig.cache
